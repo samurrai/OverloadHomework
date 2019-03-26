@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\OverloadHomework\OverloadHomework\bin\Debug\OverloadHomework.exe.config
+C:\Users\User\source\repos\OverloadHomework\OverloadHomework\bin\Debug\OverloadHomework.exe
+C:\Users\User\source\repos\OverloadHomework\OverloadHomework\bin\Debug\OverloadHomework.pdb
+C:\Users\User\source\repos\OverloadHomework\OverloadHomework\bin\Debug\MyClassLib.dll
+C:\Users\User\source\repos\OverloadHomework\OverloadHomework\bin\Debug\MyClassLib.pdb
+C:\Users\User\source\repos\OverloadHomework\OverloadHomework\obj\Debug\OverloadHomework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OverloadHomework\OverloadHomework\obj\Debug\OverloadHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OverloadHomework\OverloadHomework\obj\Debug\OverloadHomework.csproj.CopyComplete
+C:\Users\User\source\repos\OverloadHomework\OverloadHomework\obj\Debug\OverloadHomework.exe
+C:\Users\User\source\repos\OverloadHomework\OverloadHomework\obj\Debug\OverloadHomework.pdb

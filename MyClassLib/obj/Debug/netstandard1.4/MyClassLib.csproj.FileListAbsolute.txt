@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\OverloadHomework\MyClassLib\bin\Debug\netstandard1.4\MyClassLib.deps.json
+C:\Users\User\source\repos\OverloadHomework\MyClassLib\bin\Debug\netstandard1.4\MyClassLib.dll
+C:\Users\User\source\repos\OverloadHomework\MyClassLib\bin\Debug\netstandard1.4\MyClassLib.pdb
+C:\Users\User\source\repos\OverloadHomework\MyClassLib\obj\Debug\netstandard1.4\MyClassLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OverloadHomework\MyClassLib\obj\Debug\netstandard1.4\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OverloadHomework\MyClassLib\obj\Debug\netstandard1.4\MyClassLib.AssemblyInfo.cs
+C:\Users\User\source\repos\OverloadHomework\MyClassLib\obj\Debug\netstandard1.4\MyClassLib.dll
+C:\Users\User\source\repos\OverloadHomework\MyClassLib\obj\Debug\netstandard1.4\MyClassLib.pdb
